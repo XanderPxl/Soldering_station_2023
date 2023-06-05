@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\12203308\Documents\School\Altium\soldeerstation_2023\MainPCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mainpcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mainpcb-slotholes.txt|DrillLayers=gtl,gbl

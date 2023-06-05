@@ -1,0 +1,38 @@
+Change Physical Footprint: Designator=B1 Old Footprint=Bruggelijkrichter New Footprint=Bruggelijkrichter
+Change Physical Footprint: Designator=B2 Old Footprint=Bruggelijkrichter New Footprint=Bruggelijkrichter
+Change Physical Footprint: Designator=C5 Old Footprint=100uf tht New Footprint=100uf tht
+Change Physical Footprint: Designator=C6 Old Footprint=10uF tht New Footprint=10uF tht
+Change Physical Footprint: Designator=C7 Old Footprint=4700uf tht New Footprint=4700uf tht
+Change Physical Footprint: Designator=C11 Old Footprint=10uF tht New Footprint=10uF tht
+Change Physical Footprint: Designator=C13 Old Footprint=10uF tht New Footprint=10uF tht
+Change Physical Footprint: Designator=C19 Old Footprint=100uf tht New Footprint=100uf tht
+Change Physical Footprint: Designator=D1 Old Footprint=1n4007 New Footprint=1n4007
+Change Physical Footprint: Designator=D2 Old Footprint=1n4148 New Footprint=1n4148
+Change Physical Footprint: Designator=DY1 Old Footprint=4 x sevensegment display New Footprint=4 x sevensegment display
+Change Physical Footprint: Designator=IC2 Old Footprint=Dual_Opamp New Footprint=Dual_Opamp
+Change Physical Footprint: Designator=IC3 Old Footprint=OKI-78SR-5_1.5-W36-C New Footprint=OKI-78SR-5_1.5-W36-C
+Change Physical Footprint: Designator=IC4 Old Footprint=ATMEGA4809-PF New Footprint=ATMEGA4809-PF
+Change Physical Footprint: Designator=L2 Old Footprint=10uH tht New Footprint=10uH tht
+Change Physical Footprint: Designator=RY1 Old Footprint=RT424005 New Footprint=RT424005
+Change Physical Footprint: Designator=T1 Old Footprint=BC547CG New Footprint=BC547CG
+Change Physical Footprint: Designator=T2 Old Footprint=BC547CG New Footprint=BC547CG
+Change Physical Footprint: Designator=T3 Old Footprint=BC557C New Footprint=BC557C
+Change Physical Footprint: Designator=T4 Old Footprint=IRF9Z34NPBF New Footprint=IRF9Z34NPBF
+Change Physical Footprint: Designator=T5 Old Footprint=BC547CG New Footprint=BC547CG
+Change Physical Footprint: Designator=TB1 Old Footprint=2pin screw connector New Footprint=2pin screw connector
+Change Physical Footprint: Designator=TB2 Old Footprint=2pin screw connector New Footprint=2pin screw connector
+Change Physical Footprint: Designator=TB3 Old Footprint=3x1 header tht New Footprint=3x1 header tht
+Change Physical Footprint: Designator=TB4 Old Footprint=3x1 header tht New Footprint=3x1 header tht
+Change Physical Footprint: Designator=TB5 Old Footprint=2x1 header tht New Footprint=2x1 header tht
+Change Physical Footprint: Designator=TB6 Old Footprint=4x1 header tht New Footprint=4x1 header tht
+Change Physical Footprint: Designator=TB7 Old Footprint=6x2 header tht New Footprint=6x2 header tht
+Change Physical Footprint: Designator=TB8 Old Footprint=5x1 header tht New Footprint=5x1 header tht
+Change Physical Footprint: Designator=TB9 Old Footprint=3x1 header tht New Footprint=3x1 header tht
+Change Physical Footprint: Designator=TB10 Old Footprint=2pin screw connector New Footprint=2pin screw connector
+Change Physical Footprint: Designator=TB11 Old Footprint=4x1 header tht New Footprint=4x1 header tht
+Change Physical Footprint: Designator=TB12 Old Footprint=5x1 header tht New Footprint=5x1 header tht
+Change Physical Footprint: Designator=TB13 Old Footprint=2pin screw connector New Footprint=2pin screw connector
+Change Physical Footprint: Designator=TB14 Old Footprint=5x1 header tht New Footprint=5x1 header tht
+Change Physical Footprint: Designator=TB15 Old Footprint=4x1 header tht New Footprint=4x1 header tht
+Change Physical Footprint: Designator=U1 Old Footprint=Encoder New Footprint=Encoder
+Change Physical Footprint: Designator=ZD1 Old Footprint=1n4007 New Footprint=1n4007

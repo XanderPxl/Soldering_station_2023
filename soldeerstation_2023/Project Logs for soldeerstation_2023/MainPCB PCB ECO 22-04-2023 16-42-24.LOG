@@ -1,0 +1,19 @@
+Added Component: Designator=DY1(4 x sevensegment display)
+Added Pin To Net: NetName=NetDY1_1 Pin=DY1-1
+Added Pin To Net: NetName=NetDY1_2 Pin=DY1-2
+Added Pin To Net: NetName=NetDY1_3 Pin=DY1-3
+Added Pin To Net: NetName=NetDY1_4 Pin=DY1-4
+Added Pin To Net: NetName=NetDY1_5 Pin=DY1-5
+Added Pin To Net: NetName=NetDY1_6 Pin=DY1-6
+Added Pin To Net: NetName=NetDY1_7 Pin=DY1-7
+Added Pin To Net: NetName=NetDY1_8 Pin=DY1-8
+Added Pin To Net: NetName=NetDY1_9 Pin=DY1-9
+Added Pin To Net: NetName=NetDY1_10 Pin=DY1-10
+Added Pin To Net: NetName=NetDY1_11 Pin=DY1-11
+Added Pin To Net: NetName=NetDY1_12 Pin=DY1-12
+Added Member To Class: ClassName=Display Member=Component DY1 4 x sevensegment display
+Added Room: Name=CPU
+Added Room: Name=Display
+Added Room: Name=Power supply
+Added Room: Name=PWM_control
+Added Room: Name=Thermocouple

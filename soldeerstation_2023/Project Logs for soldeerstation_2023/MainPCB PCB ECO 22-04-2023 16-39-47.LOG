@@ -1,0 +1,17 @@
+Added Member To Class: ClassName=Display Member=Component C15 10nF
+Added Member To Class: ClassName=Display Member=Component C16 10nF
+Added Member To Class: ClassName=Display Member=Component C17 10nF
+Added Member To Class: ClassName=Display Member=Component C18 100nF
+Added Member To Class: ClassName=Display Member=Component C19 100uF
+Added Member To Class: ClassName=Display Member=Component DY1 4 x sevensegment display
+Added Member To Class: ClassName=Display Member=Component IC5 TM1637__SOP_
+Added Member To Class: ClassName=Display Member=Component R21 10k
+Added Member To Class: ClassName=Display Member=Component R22 10k
+Added Member To Class: ClassName=Display Member=Component R23 10k
+Added Member To Class: ClassName=Display Member=Component TB11 4x1 header tht
+Added Member To Class: ClassName=Display Member=Component TB12 5x1 header tht
+Added Member To Class: ClassName=Display Member=Component U1 Encoder
+Added Room: Name=CPU
+Added Room: Name=Power supply
+Added Room: Name=PWM_control
+Added Room: Name=Thermocouple

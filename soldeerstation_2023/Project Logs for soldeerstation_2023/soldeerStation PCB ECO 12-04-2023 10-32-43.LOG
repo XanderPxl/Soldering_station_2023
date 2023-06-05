@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC8_1 Pin=L2-1
+Added Pin To Net: NetName=+5 Pin=L2-2
+Added Pin To Net: NetName=NetIC4_11 Pin=ZD1-1
+Added Pin To Net: NetName=GND Pin=ZD1-2

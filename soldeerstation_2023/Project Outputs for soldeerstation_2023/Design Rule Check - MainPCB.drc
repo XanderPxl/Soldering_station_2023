@@ -1,0 +1,61 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\12203308\Documents\School\Altium\soldeerstation_2023\MainPCB.PcbDoc
+Date     : 3/05/2023
+Time     : 23:06:24
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=20mil) (Max=50mil) (Preferred=20mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+PCB Health Issue Category : Reference Point Outside the Component Area
+   Reference point outside the component area: SIP Component TB11-4x1 header tht (21727mil,4613mil) on Top Layer
+   Reference point outside the component area: SIP Component TB15-4x1 header tht (-13785mil,2730mil) on Top Layer
+   Reference point outside the component area: DIP Component TB7-6x2 header tht (4180mil,1575mil) on Top Layer
+   Reference point outside the component area: SIP Component TB6-4x1 header tht (4110mil,-17055mil) on Top Layer
+Issues :4
+
+PCB Health Issue Category : Slots Hole Size > Length
+   Slot holes size > length: Pad U1-3(996.276mil,6054.528mil) on Multi-Layer
+   Slot holes size > length: Pad U1-4(996.276mil,6495.472mil) on Multi-Layer
+Issues :2
+
+
+Violations Detected : 0
+Waived Violations : 0
+PCB Health Issues : 6
+Time Elapsed        : 00:00:01
