@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Xander Aerts</o:Author>
   <o:LastAuthor>Xander Aerts</o:LastAuthor>
-  <o:Revision>3</o:Revision>
+  <o:Revision>4</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2023-06-06T12:52:00Z</o:Created>
-  <o:LastSaved>2023-06-06T12:52:00Z</o:LastSaved>
+  <o:LastSaved>2023-06-06T12:53:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>96</o:Words>
-  <o:Characters>533</o:Characters>
+  <o:Characters>532</o:Characters>
   <o:Lines>4</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>628</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>627</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -52,6 +52,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -728,7 +729,7 @@ div.WordSection1
 <div class=WordSection1>
 
 <p class=MsoNormal><span lang=EN-GB style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-GB'># Soldering Station <o:p></o:p></span></p>
+mso-ansi-language:EN-GB'>#Soldering Station <o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-GB style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
@@ -736,9 +737,9 @@ mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal><span lang=EN-GB style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-GB'>This project aims to design a functional and durable
 prototype soldering station that is based on the design that <span
-class=SpellE>Elektor</span> made a few years ago. Because the design has been
-in use for several years, it forms a stable base to start from. As a prototype
-it needs to easily troubleshoot and repair in order to make the testing process
+class=SpellE>Elektor</span> made a few years ago. Because the design has been in
+use for several years, it forms a stable base to start from. As a prototype it
+needs to easily troubleshoot and repair in order to make the testing process
 easier. In the application note I will not only discuss the final outcome and
 the approach that it took to get here but also the different materials that
 were used, as well as the different challenges and decisions encountered
