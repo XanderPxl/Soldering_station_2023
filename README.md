@@ -1,5 +1,8 @@
 Project Designing: Soldering station
 
+![20230607_132222](https://github.com/XanderPxl/Soldering_station_2023/assets/114076297/6cb3aa5f-44be-4e85-98cb-544377a2f90d)
+
+
 
 This project aims to design a functional and durable
 prototype soldering station that is based on the design that Elektor made a few years ago. 
