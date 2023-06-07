@@ -3,7 +3,7 @@
 ![20230607_132222](https://github.com/XanderPxl/Soldering_station_2023/assets/114076297/6cb3aa5f-44be-4e85-98cb-544377a2f90d)
 
 
-
+<pre>
 This project aims to design a functional and durable
 prototype soldering station that is based on the design that Elektor made a few years ago. 
 Because the design has been in use for several years, it forms a stable base to start from. As a prototype it
@@ -17,3 +17,4 @@ The <a href="https://www.thingiverse.com/thing:4142169">soldering iron holder</a
 
 
 Written and created by Aerts Xander during first year of college.
+</pre>
