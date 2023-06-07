@@ -14,3 +14,6 @@ were used, as well as the different challenges and decisions encountered
 throughout the different phases of the project.
 
 The <a href="https://www.thingiverse.com/thing:4142169">soldering iron holder</a> that can be seen in the picture is the design of <a href="https://www.thingiverse.com/theswink/designs">Swinkels Wilfred</a> from Thingiverse.
+
+
+Written by Aerts Xander on 07/06/2023
